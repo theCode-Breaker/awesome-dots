@@ -1,5 +1,4 @@
 # awesome-dots
-awesomewm
 
 - _Thanks to_
 
