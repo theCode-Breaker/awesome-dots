@@ -1,0 +1,39 @@
+sw_volume: 100
+audio_device_state:1:PipeWire Sound Server
+audio_device_state:1:Visualizer
+audio_device_state:1:lossless
+state: pause
+current: 0
+time: 86.945000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Alec_Benjamin_-_The_Hill_I_Will_Die.mp3
+1:Alec Benjamin - Mind Is A Prison.mp3
+2:Alec_Benjamin_-_Devil_Doesnt_Bargain.mp3
+3:Alec_Benjamin_-_Dopamine_Addict.mp3
+4:Alec_Benjamin_-_Hammers.mp3
+5:Alec_Benjamin_-_The_Way_You_Felt.mp3
+6:Alec-Benjamin-If-I-Killed-Someone-For-You.mp3
+7:Alec_Benjamin_-_Demons.mp3
+8:Alec_Benjamin_Gotta_Be_A_Reason.mp3
+9:NEFFEX - Grateful [Copyright Free].mp3
+10:Alec_Benjamin_-_Jesus_In_LA.mp3
+11:Alec_Benjamin_-_Match_In_The_Rain.mp3
+12:Alec_Benjamin_-_Must_Have_Been_The_Wind.mp3
+13:If We Have Each Other.mp3
+14:Let Me Down Slowly.mp3
+15:Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+16:Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3
+17:Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3
+18:N3WPORT - Power (feat. braev) [NCS Release].mp3
+19:Alec_Benjamin_Oh_My_God.mp3
+20:Alec_Benjamin_-_Older.mp3
+21:Alec_Benjamin_-_Shadow_Of_Mine.mp3
+22:Alec_Benjamin_-_Speakers.mp3
+playlist_end
