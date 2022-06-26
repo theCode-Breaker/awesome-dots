@@ -1,0 +1,2 @@
+# awesome-dots
+awesomewm
