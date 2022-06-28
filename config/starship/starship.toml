@@ -2,7 +2,6 @@
 ## ░▀▀█░░█░░█▀█░█▀▄░▀▀█░█▀█░░█░░█▀▀
 ## ░▀▀▀░░▀░░▀░▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░░
 ## CROSS-SHELL PROMPT
-##
 ## The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 format = "$all"
@@ -12,9 +11,10 @@ right_format = """$git_branch$git_status$directory"""
 disabled = true
 
 [character]
-success_symbol = " [](#6791c9)"
-error_symbol = " [](#df5b61)"
-vicmd_symbol = "[  ](#78b892)"
+success_symbol = " [](#6791c9)"
+error_symbol = " [](#df5b61)"
+vicmd_symbol = "[  ](#78b892)"
+format = "$symbol [|](bold bright-black) "
 
 [hostname]
 ssh_only = true
