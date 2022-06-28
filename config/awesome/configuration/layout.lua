@@ -21,13 +21,13 @@ machi.editor.nested_layouts = {
 --- Set the layouts
 tag.connect_signal("request::default_layouts", function()
 	awful.layout.append_default_layouts({
-		awful.layout.suit.tile,
+		equal,
 		awful.layout.suit.floating,
+		awful.layout.suit.tile,
 		centered,
 		mstab,
 		horizontal,
 		machi.default_layout,
-		equal,
 		deck,
 	})
 end)
