@@ -46,22 +46,22 @@ scrolling:
   
 font:
   normal:
-    family: azuki_font
+    family: FiraCode Nerd Font
     style: Regular
 
   bold:
-    family: azuki_font
+    family: FiraCode Nerd Font
     style: Bold
 
   italic:
-    family: azuki_font
+    family: FiraCode Nerd Font
     style: Italic
 
   bold_italic:
-    family: azuki_font
+    family: FiraCode Nerd Font
     style: Bold Italic
 
-  size: 11
+  size: 9
   
   offset:
     x: 0
