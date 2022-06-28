@@ -117,7 +117,7 @@ ruled.client.connect_signal("request::rules", function()
 			class = {
 				"feh",
 				"imv",
-				"viewnior",
+				"Viewnior",
 			},
 		},
 		properties = {
